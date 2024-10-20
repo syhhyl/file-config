@@ -1,8 +1,8 @@
+syntax on
 set nocompatible
 set autoindent
 set cindent
 set nowrap
-#test git 1
 
 set nobackup
 set noswapfile
@@ -33,6 +33,5 @@ function! InsertMapForEnter()
 endfunction
 
 
-# test git 
 
 
