@@ -2,6 +2,7 @@ set nocompatible
 set autoindent
 set cindent
 set nowrap
+#test git 1
 
 set nobackup
 set noswapfile
