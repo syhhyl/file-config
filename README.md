@@ -1,4 +1,2 @@
 # my config files
-
-- vim -> vimrc
-- alacritty -> alacritty.toml
+Well, it's OK.
