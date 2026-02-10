@@ -1,2 +1,2 @@
 # my config files
-Well, it's OK.
+It's OK.

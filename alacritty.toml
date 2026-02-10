@@ -1,3 +1,6 @@
 [font]
-size=16
+size=15
 normal = {family="Monaco"}
+
+[general]
+live_config_reload = true
